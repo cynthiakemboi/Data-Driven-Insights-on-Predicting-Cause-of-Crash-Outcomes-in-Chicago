@@ -1,3 +1,5 @@
+* A Data-Driven Insights on Predicting Cause of Crash Outcomes in Chicago 
+
 * Introduction
 The project successfully developed a multi-class classification model to predict crash collision patterns using vehicle characteristics, occupancy data, and driving behavior indicators.
 
@@ -48,10 +50,13 @@ To ensure data quality and reliability:
 - Numerical variables - filled with median values
 
 * Key Insights from EDA
-
-- Front-end collisions are the most common   
-- Turning maneuvers are strongly linked to side collisions   
-- Vehicle type influences how collisions occur where the passanger vehicles had most of the crashes  
+![alt text](collusion_type.png)
+- Front-end collisions are the most common
+![alt text](Driving_behavior.png)   
+- Turning maneuvers are strongly linked to side collisions
+![alt text](vehicle_type.png)  
+- Vehicle type influences how collisions occur where the passanger vehicles had most of the crashes
+![alt text](occupancy.png) 
 - Occupancy levels show moderate variation across crash types
 
 * Data Preparation — Preprocessing
