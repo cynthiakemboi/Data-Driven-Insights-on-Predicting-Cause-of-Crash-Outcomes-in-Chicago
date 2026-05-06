@@ -51,11 +51,11 @@ To ensure data quality and reliability:
 
 ## Key Insights from EDA
 
-![alt text](collusion_type.png.jpeg)
+![alt text](collusion.png.jpeg)
 - Front-end collisions are the most common
-![alt text](Driving_behavior.png.jpeg)   
+![alt text](Driving.png.jpeg)   
 - Turning maneuvers are strongly linked to side collisions
-![alt text](vehicle_type.png.jpeg)  
+![alt text](vehicle.png.jpeg)  
 - Vehicle type influences how collisions occur where the passanger vehicles had most of the crashes
 ![alt text](occupancy.png.jpeg) 
 - Occupancy levels show moderate variation across crash types
